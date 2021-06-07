@@ -1,0 +1,19 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "Collection of presentations",
+  "scripts": {
+    "build": "marp --html */*.md",
+    "pretest": "echo 'NOTE: no pretest specified'",
+    "test": "echo 'NOTE: no test specified'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.rnd.gic.ericsson.se/ezkraal/presentations"
+  },
+  "author": "Alexander Krapivin",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.21.1"
+  }
+}
