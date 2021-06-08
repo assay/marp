@@ -150,16 +150,59 @@ Alexander Krapivin
 2020.06.03
 
 ---
-<!-- _class: white-page-->
+<!-- _class: white-page -->
 
-![bg cover](img/background.jpg)
+Project organization: the main entities
+=======================================
 
-Background
-==========
+<div class="container">
+<div class="column">
 
-* 1
-* 2
-* 3
+![](img/entities.png)
+
+</div>
+<div class="column">
+
+* **Product**
+   What do we produce?
+   What do we sale?
+* **Source code**
+   What is our property?
+   What do we own?
+* **People**
+   Who does all things?
+* **Infrastructure**
+   What do we need?
+
+</div>
+</div>
+
+---
+<!-- _class: white-page -->
+
+Project organization: management structures
+===========================================
+
+<div class="container">
+<div class="column">
+
+![](img/structure.png)
+
+</div>
+<div class="column">
+
+* The Head of ...
+* **People:**
+  Staff / Line Management / HR
+* **Product:**
+  Product Management team
+* **Source code:**
+  Software Architecture team
+* **Infrastructure:**
+  Infrastructure / DevOps / DevSecOps
+
+</div>
+</div>
 
 ---
 <!-- _class: white-page -->
@@ -206,40 +249,3 @@ Bla bla bla                  | 6+
 
 Have a nice day!
 ================
-
----
-<!-- _class: white-page -->
-
-Current deployment status
-=========================
-
-<div class="container">
-<div class="column">
-
-## ✅ Done
-
-* 1
-* 2
-* 3
-* 4
-
-</div>
-<div class="column">
-
-## 🚧 ToDo
-
-* 5
-* 6
-* 7
-
-</div>
-</div>
-
----
-<!-- _class: white-page -->
-
-Components, roles and responsibilities
-======================================
-
-![](img/modules.png)
-
